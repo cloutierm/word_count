@@ -5,5 +5,5 @@
 
 #Voici la fonction
 def count_words(phrase): #creation de la fonction count_words
-    nmb_mots = len(phrase .split()) #ligne qui va compter le nombre de mots
-    return nmb_mots  #on return la variable
+    nmb_mots = len(phrase .split()) #len compte le nombre de charactères et split le trasform en nombre de mots
+    return nmb_mots  #on return la variable nmb_mots
